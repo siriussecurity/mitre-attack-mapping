@@ -1,0 +1,3 @@
+attackcti==0.1.7
+openpyxl==2.5.9
+simplejson==3.16.0
