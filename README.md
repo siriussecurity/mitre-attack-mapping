@@ -14,3 +14,7 @@ Start with the mitre-mapping.xlsx file to fill in your organisation's datasource
 script and mitrenize your organisation.
 
 mitre-attack-mapping.py is having one optional parameter: the filename of the mapping Excel file.
+
+## Example
+
+![](images/screenshot.png?raw=true)
