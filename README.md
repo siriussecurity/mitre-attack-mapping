@@ -1,6 +1,10 @@
 # mitre-attack-mapping
 Mapping your datasources and detections to the MITRE ATT&amp;CK Navigator framework.
 
+This project is a bit outdated and not maintained anymore. The successor project is at:
+https://github.com/rabobank-cdc/DeTTECT
+DeTT&CT does exactly what this project offers and much more!
+
 ## Requirements
 Python 3 and just a few libraries are needed, check requirements.txt for that.
 
